@@ -1,0 +1,41 @@
+prompt,base,finetuned
+What are the common symptoms and risk factors of Type 2 Diabetes?,"Type 2 diabetes is a chronic condition characterized by high blood sugar, insulin resistance, and impaired insulin secretion. The common symptoms include:
+
+*   Increased thirst and urination
+*   Fatigue
+*   Blurred vision
+*   Slow healing of cuts and wounds
+*   Tingling or numbness in the hands and ","Type 2 diabetes is a chronic condition characterized by high blood sugar, insulin resistance, and impaired insulin secretion. Common symptoms include:
+
+*   Increased thirst and urination
+*   Fatigue
+*   Blurred vision
+*   Slow healing of cuts and wounds
+*   Tingling or numbness in the hands and feet"
+A 55-year-old male presents with acute chest pain radiating to the left arm. What are the most likely differential diagnoses?,"The most likely differential diagnoses are:
+1. Acute coronary syndrome
+2. Pulmonary embolism
+3. Pneumothorax
+4. Aortic dissection
+5. Pneumonitis
+6. Myocarditis
+7. Pulmonary edema
+8. Atherosclerotic plaque rupture
+9. Pulmonary infarction
+10. Transmural myocardial infarction.","The most likely differential diagnoses for this patient are:
+1. Myocardial infarction (MI) with ST-elevation myocardial infarction (STEMI)
+2. Atherosclerotic coronary artery disease
+3. Dissection of the aorta
+4. Pulmonary embolism
+5. Acute coronary syndrome (ACS) with non-ST-elevation myocardial inf"
+Explain the mechanism of action of metformin in treating Type 2 Diabetes.,"Metformin is a widely used oral antidiabetic drug that is primarily used in the treatment of Type 2 diabetes mellitus. Its mechanism of action involves the inhibition of hepatic gluconeogenesis, which is the process by which the liver produces glucose from non-carbohydrate sources. This inhibition i","Metformin is a biguanide antidiabetic drug that is widely used in the treatment of Type 2 Diabetes Mellitus (T2DM). It works by activating AMP-activated protein kinase (AMPK), a key enzyme that regulates cellular energy homeostasis. The mechanism of action of metformin can be explained as follows:
+
+"
+What are the key differences between MRI and CT scan in terms of clinical indications?,"MRI and CT scans are both imaging modalities used to visualize the internal structures of the body. However, they differ in their clinical indications due to their unique strengths and limitations. Here are the key differences:
+
+1.  **Contrast agents**: MRI uses a contrast agent to improve image qua","MRI (Magnetic Resonance Imaging) and CT (Computed Tomography) scans are both imaging modalities used in the diagnosis of various medical conditions. However, they differ in their clinical indications due to their distinct characteristics and advantages. Here are the key differences:
+
+1. **Contrast a"
+Describe the five stages of chronic kidney disease and their GFR ranges.,"The five stages of chronic kidney disease (CKD) are classified based on the estimated glomerular filtration rate (GFR) and the presence or absence of albuminuria. The stages are as follows:
+
+1. **Stage 1: Mild Decrease in GFR** (GFR 90-89 mL/min/1.73 m^2): There is a mild decrease in GFR, and no alb","Chronic kidney disease (CKD) is a progressive loss of kidney function that can lead to end-stage renal disease (ESRD). The five stages of CKD are defined by the glomerular filtration rate (GFR), which is a measure of the rate at which waste and excess fluids are removed from the blood by the kidneys"
